@@ -1,0 +1,18 @@
+.redes:link,
+.redes:visited,
+.redes:active {
+  text-decoration: none;
+  color: white;
+}
+#facebook:hover {
+  color: #1771e6;
+}
+#youtube:hover {
+  color: #f20000;
+}
+#twitter:hover {
+  color: #1c93e4;
+}
+#instagram:hover {
+  color: #c4006d;
+}
